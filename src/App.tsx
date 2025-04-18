@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+   
 <div className="App"   style={{
     backgroundImage: `url(${bgImage})`,
     backgroundSize: 'cover',
@@ -16,6 +17,7 @@ function App() {
     alignItems: 'center',
     padding: '20px',
   }}>
+    
   <h1>WishWeaver</h1>
 
   <form>
